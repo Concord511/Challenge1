@@ -83,17 +83,18 @@ p {
     margin-right: 25px;
 }
 
+.content article h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Float Classes */
 .float-left {
     float: left;
 }
 
 .float-right {
     float: right;
-}
-
-.content article h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 /* Benefits Sidebar Styles */

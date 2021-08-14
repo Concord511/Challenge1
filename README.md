@@ -1,12 +1,14 @@
 # Horiseon
 
-Horiseon is an online presence management platform. They offer several services, including:
+Horiseon is an online presence management platform. 
+
+## Services Offered:
 
 - Search Engine Optimization
 - Online Reputation Management
 - Social Media Marketing
 
-Their services help with:
+### Their services help with:
 - Lead Generation
 - Brand Awareness
 - Cost Management
