@@ -73,14 +73,13 @@ p {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
 
 .content section img {
     max-height: 200px;
-    margin-right: 25px;
 }
 
 .content section h2 {
@@ -91,10 +90,12 @@ p {
 /* Float Classes */
 .float-left {
     float: left;
+    margin-right: 25px;
 }
 
 .float-right {
     float: right;
+    margin-left: 25px;
 }
 
 /* Benefits Sidebar Styles */
@@ -105,7 +106,7 @@ p {
     float: right;
     width: 20%;
     height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
 
